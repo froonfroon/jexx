@@ -1,0 +1,1084 @@
+import drop2Img1 from "@/assets/product-drop2-1.jpeg";
+import drop2Img2 from "@/assets/product-drop2-2.jpeg";
+import drop2Img3 from "@/assets/product-drop2-3.jpeg";
+import drop2Img4 from "@/assets/product-drop2-4.jpeg";
+import drop2Img5 from "@/assets/product-drop2-5.jpeg";
+import drop2Img6 from "@/assets/product-drop2-6.jpeg";
+import drop2Img7 from "@/assets/product-drop2-7.jpeg";
+import drop2Img8 from "@/assets/product-drop2-8.jpeg";
+import drop2Img9 from "@/assets/product-drop2-9.jpeg";
+import drop2Img10 from "@/assets/product-drop2-10.jpeg";
+import drop2Img11 from "@/assets/product-drop2-11.jpeg";
+import drop2Img12 from "@/assets/product-drop2-12.jpeg";
+import drop2Img13 from "@/assets/product-drop2-13.jpeg";
+import drop2Img14 from "@/assets/product-drop2-14.jpeg";
+import drop2Img15 from "@/assets/product-drop2-15.jpeg";
+import drop2Img16 from "@/assets/product-drop2-16.jpeg";
+import drop2Img17 from "@/assets/product-drop2-17.jpeg";
+import drop2Img18 from "@/assets/product-drop2-18.jpeg";
+import drop2Img19 from "@/assets/product-drop2-19.jpeg";
+import drop2Img20 from "@/assets/product-drop2-20.jpeg";
+import drop2Img21 from "@/assets/product-drop2-21.jpeg";
+import drop2Img22 from "@/assets/product-drop2-22.jpeg";
+import drop2Img23 from "@/assets/product-drop2-23.jpeg";
+import drop2Img24 from "@/assets/product-drop2-24.jpeg";
+import drop2Img25 from "@/assets/product-drop2-25.jpeg";
+import drop2Img26 from "@/assets/product-drop2-26.jpeg";
+import drop2Img27 from "@/assets/product-drop2-27.jpeg";
+import drop2Img28 from "@/assets/product-drop2-28.jpeg";
+import drop2Img29 from "@/assets/product-drop2-29.jpeg";
+import drop2Img30 from "@/assets/product-drop2-30.jpeg";
+import drop2Img31 from "@/assets/product-drop2-31.jpeg";
+import drop2Img32 from "@/assets/product-drop2-32.jpeg";
+import drop2Img33 from "@/assets/product-drop2-33.jpeg";
+import drop2Img34 from "@/assets/product-drop2-34.jpeg";
+import drop2Img35 from "@/assets/product-drop2-35.jpeg";
+import drop2Img36 from "@/assets/product-drop2-36.jpeg";
+import drop2Img37 from "@/assets/product-drop2-37.jpeg";
+import drop2Img38 from "@/assets/product-drop2-38.jpeg";
+import drop2Img39 from "@/assets/product-drop2-39.jpeg";
+import drop2Img40 from "@/assets/product-drop2-40.jpeg";
+import drop2Img41 from "@/assets/product-drop2-41.jpeg";
+import drop2Img42 from "@/assets/product-drop2-42.jpeg";
+import drop2Img43 from "@/assets/product-drop2-43.jpeg";
+import drop2Img44 from "@/assets/product-drop2-44.jpeg";
+import drop2Img45 from "@/assets/product-drop2-45.jpeg";
+import drop2Img46 from "@/assets/product-drop2-46.jpeg";
+import drop2Img47 from "@/assets/product-drop2-47.jpeg";
+import drop2Img48 from "@/assets/product-drop2-48.jpeg";
+import drop2Img49 from "@/assets/product-drop2-49.jpeg";
+import drop2Img50 from "@/assets/product-drop2-50.jpeg";
+import drop2Img51 from "@/assets/product-drop2-51.jpeg";
+import drop2Img52 from "@/assets/product-drop2-52.jpeg";
+import drop2Img53 from "@/assets/product-drop2-53.jpeg";
+import drop2Img54 from "@/assets/product-drop2-54.jpeg";
+import drop2Img55 from "@/assets/product-drop2-55.jpeg";
+import drop2Img56 from "@/assets/product-drop2-56.jpeg";
+import drop2Img57 from "@/assets/product-drop2-57.jpeg";
+import drop2Img58 from "@/assets/product-drop2-58.jpeg";
+import drop2Img59 from "@/assets/product-drop2-59.jpeg";
+import drop2Img60 from "@/assets/product-drop2-60.jpeg";
+
+
+// === PRODUCTS ===
+
+  {
+    id: "17",
+    slug: "jeex-exclusive-drop2-1",
+    name: { ar: "قطعة حصرية - كوليكشن 1", en: "Exclusive Drop Piece 1" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img1,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "18",
+    slug: "jeex-exclusive-drop2-2",
+    name: { ar: "قطعة حصرية - كوليكشن 2", en: "Exclusive Drop Piece 2" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img2,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "19",
+    slug: "jeex-exclusive-drop2-3",
+    name: { ar: "قطعة حصرية - كوليكشن 3", en: "Exclusive Drop Piece 3" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img3,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "20",
+    slug: "jeex-exclusive-drop2-4",
+    name: { ar: "قطعة حصرية - كوليكشن 4", en: "Exclusive Drop Piece 4" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img4,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "21",
+    slug: "jeex-exclusive-drop2-5",
+    name: { ar: "قطعة حصرية - كوليكشن 5", en: "Exclusive Drop Piece 5" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img5,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "22",
+    slug: "jeex-exclusive-drop2-6",
+    name: { ar: "قطعة حصرية - كوليكشن 6", en: "Exclusive Drop Piece 6" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img6,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "23",
+    slug: "jeex-exclusive-drop2-7",
+    name: { ar: "قطعة حصرية - كوليكشن 7", en: "Exclusive Drop Piece 7" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img7,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "24",
+    slug: "jeex-exclusive-drop2-8",
+    name: { ar: "قطعة حصرية - كوليكشن 8", en: "Exclusive Drop Piece 8" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img8,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "25",
+    slug: "jeex-exclusive-drop2-9",
+    name: { ar: "قطعة حصرية - كوليكشن 9", en: "Exclusive Drop Piece 9" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img9,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "26",
+    slug: "jeex-exclusive-drop2-10",
+    name: { ar: "قطعة حصرية - كوليكشن 10", en: "Exclusive Drop Piece 10" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img10,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "27",
+    slug: "jeex-exclusive-drop2-11",
+    name: { ar: "قطعة حصرية - كوليكشن 11", en: "Exclusive Drop Piece 11" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img11,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "28",
+    slug: "jeex-exclusive-drop2-12",
+    name: { ar: "قطعة حصرية - كوليكشن 12", en: "Exclusive Drop Piece 12" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img12,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "29",
+    slug: "jeex-exclusive-drop2-13",
+    name: { ar: "قطعة حصرية - كوليكشن 13", en: "Exclusive Drop Piece 13" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img13,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "30",
+    slug: "jeex-exclusive-drop2-14",
+    name: { ar: "قطعة حصرية - كوليكشن 14", en: "Exclusive Drop Piece 14" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img14,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "31",
+    slug: "jeex-exclusive-drop2-15",
+    name: { ar: "قطعة حصرية - كوليكشن 15", en: "Exclusive Drop Piece 15" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img15,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "32",
+    slug: "jeex-exclusive-drop2-16",
+    name: { ar: "قطعة حصرية - كوليكشن 16", en: "Exclusive Drop Piece 16" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img16,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "33",
+    slug: "jeex-exclusive-drop2-17",
+    name: { ar: "قطعة حصرية - كوليكشن 17", en: "Exclusive Drop Piece 17" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img17,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "34",
+    slug: "jeex-exclusive-drop2-18",
+    name: { ar: "قطعة حصرية - كوليكشن 18", en: "Exclusive Drop Piece 18" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img18,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "35",
+    slug: "jeex-exclusive-drop2-19",
+    name: { ar: "قطعة حصرية - كوليكشن 19", en: "Exclusive Drop Piece 19" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img19,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "36",
+    slug: "jeex-exclusive-drop2-20",
+    name: { ar: "قطعة حصرية - كوليكشن 20", en: "Exclusive Drop Piece 20" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img20,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "37",
+    slug: "jeex-exclusive-drop2-21",
+    name: { ar: "قطعة حصرية - كوليكشن 21", en: "Exclusive Drop Piece 21" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img21,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "38",
+    slug: "jeex-exclusive-drop2-22",
+    name: { ar: "قطعة حصرية - كوليكشن 22", en: "Exclusive Drop Piece 22" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img22,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "39",
+    slug: "jeex-exclusive-drop2-23",
+    name: { ar: "قطعة حصرية - كوليكشن 23", en: "Exclusive Drop Piece 23" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img23,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "40",
+    slug: "jeex-exclusive-drop2-24",
+    name: { ar: "قطعة حصرية - كوليكشن 24", en: "Exclusive Drop Piece 24" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img24,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "41",
+    slug: "jeex-exclusive-drop2-25",
+    name: { ar: "قطعة حصرية - كوليكشن 25", en: "Exclusive Drop Piece 25" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img25,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "42",
+    slug: "jeex-exclusive-drop2-26",
+    name: { ar: "قطعة حصرية - كوليكشن 26", en: "Exclusive Drop Piece 26" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img26,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "43",
+    slug: "jeex-exclusive-drop2-27",
+    name: { ar: "قطعة حصرية - كوليكشن 27", en: "Exclusive Drop Piece 27" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img27,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "44",
+    slug: "jeex-exclusive-drop2-28",
+    name: { ar: "قطعة حصرية - كوليكشن 28", en: "Exclusive Drop Piece 28" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img28,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "45",
+    slug: "jeex-exclusive-drop2-29",
+    name: { ar: "قطعة حصرية - كوليكشن 29", en: "Exclusive Drop Piece 29" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img29,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "46",
+    slug: "jeex-exclusive-drop2-30",
+    name: { ar: "قطعة حصرية - كوليكشن 30", en: "Exclusive Drop Piece 30" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img30,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "47",
+    slug: "jeex-exclusive-drop2-31",
+    name: { ar: "قطعة حصرية - كوليكشن 31", en: "Exclusive Drop Piece 31" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img31,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "48",
+    slug: "jeex-exclusive-drop2-32",
+    name: { ar: "قطعة حصرية - كوليكشن 32", en: "Exclusive Drop Piece 32" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img32,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "49",
+    slug: "jeex-exclusive-drop2-33",
+    name: { ar: "قطعة حصرية - كوليكشن 33", en: "Exclusive Drop Piece 33" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img33,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "50",
+    slug: "jeex-exclusive-drop2-34",
+    name: { ar: "قطعة حصرية - كوليكشن 34", en: "Exclusive Drop Piece 34" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img34,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "51",
+    slug: "jeex-exclusive-drop2-35",
+    name: { ar: "قطعة حصرية - كوليكشن 35", en: "Exclusive Drop Piece 35" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img35,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "52",
+    slug: "jeex-exclusive-drop2-36",
+    name: { ar: "قطعة حصرية - كوليكشن 36", en: "Exclusive Drop Piece 36" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img36,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "53",
+    slug: "jeex-exclusive-drop2-37",
+    name: { ar: "قطعة حصرية - كوليكشن 37", en: "Exclusive Drop Piece 37" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img37,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "54",
+    slug: "jeex-exclusive-drop2-38",
+    name: { ar: "قطعة حصرية - كوليكشن 38", en: "Exclusive Drop Piece 38" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img38,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "55",
+    slug: "jeex-exclusive-drop2-39",
+    name: { ar: "قطعة حصرية - كوليكشن 39", en: "Exclusive Drop Piece 39" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img39,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "56",
+    slug: "jeex-exclusive-drop2-40",
+    name: { ar: "قطعة حصرية - كوليكشن 40", en: "Exclusive Drop Piece 40" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img40,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "57",
+    slug: "jeex-exclusive-drop2-41",
+    name: { ar: "قطعة حصرية - كوليكشن 41", en: "Exclusive Drop Piece 41" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img41,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "58",
+    slug: "jeex-exclusive-drop2-42",
+    name: { ar: "قطعة حصرية - كوليكشن 42", en: "Exclusive Drop Piece 42" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img42,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "59",
+    slug: "jeex-exclusive-drop2-43",
+    name: { ar: "قطعة حصرية - كوليكشن 43", en: "Exclusive Drop Piece 43" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img43,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "60",
+    slug: "jeex-exclusive-drop2-44",
+    name: { ar: "قطعة حصرية - كوليكشن 44", en: "Exclusive Drop Piece 44" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img44,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "61",
+    slug: "jeex-exclusive-drop2-45",
+    name: { ar: "قطعة حصرية - كوليكشن 45", en: "Exclusive Drop Piece 45" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img45,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "62",
+    slug: "jeex-exclusive-drop2-46",
+    name: { ar: "قطعة حصرية - كوليكشن 46", en: "Exclusive Drop Piece 46" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img46,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "63",
+    slug: "jeex-exclusive-drop2-47",
+    name: { ar: "قطعة حصرية - كوليكشن 47", en: "Exclusive Drop Piece 47" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img47,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "64",
+    slug: "jeex-exclusive-drop2-48",
+    name: { ar: "قطعة حصرية - كوليكشن 48", en: "Exclusive Drop Piece 48" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img48,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "65",
+    slug: "jeex-exclusive-drop2-49",
+    name: { ar: "قطعة حصرية - كوليكشن 49", en: "Exclusive Drop Piece 49" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img49,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "66",
+    slug: "jeex-exclusive-drop2-50",
+    name: { ar: "قطعة حصرية - كوليكشن 50", en: "Exclusive Drop Piece 50" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img50,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "67",
+    slug: "jeex-exclusive-drop2-51",
+    name: { ar: "قطعة حصرية - كوليكشن 51", en: "Exclusive Drop Piece 51" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img51,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "68",
+    slug: "jeex-exclusive-drop2-52",
+    name: { ar: "قطعة حصرية - كوليكشن 52", en: "Exclusive Drop Piece 52" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img52,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "69",
+    slug: "jeex-exclusive-drop2-53",
+    name: { ar: "قطعة حصرية - كوليكشن 53", en: "Exclusive Drop Piece 53" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img53,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "70",
+    slug: "jeex-exclusive-drop2-54",
+    name: { ar: "قطعة حصرية - كوليكشن 54", en: "Exclusive Drop Piece 54" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img54,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "71",
+    slug: "jeex-exclusive-drop2-55",
+    name: { ar: "قطعة حصرية - كوليكشن 55", en: "Exclusive Drop Piece 55" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img55,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "72",
+    slug: "jeex-exclusive-drop2-56",
+    name: { ar: "قطعة حصرية - كوليكشن 56", en: "Exclusive Drop Piece 56" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img56,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "73",
+    slug: "jeex-exclusive-drop2-57",
+    name: { ar: "قطعة حصرية - كوليكشن 57", en: "Exclusive Drop Piece 57" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img57,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "74",
+    slug: "jeex-exclusive-drop2-58",
+    name: { ar: "قطعة حصرية - كوليكشن 58", en: "Exclusive Drop Piece 58" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img58,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "75",
+    slug: "jeex-exclusive-drop2-59",
+    name: { ar: "قطعة حصرية - كوليكشن 59", en: "Exclusive Drop Piece 59" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img59,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
+  {
+    id: "76",
+    slug: "jeex-exclusive-drop2-60",
+    name: { ar: "قطعة حصرية - كوليكشن 60", en: "Exclusive Drop Piece 60" },
+    category: "tshirt",
+    price: 850,
+    image: drop2Img60,
+    colors: ["#000000"],
+    sizes: ["S", "M", "L", "XL"],
+    rating: 5.0,
+    reviews: Math.floor(Math.random() * 50) + 10,
+    isNew: true,
+    description: {
+      ar: "قطعة مميزة من أحدث كوليكشن لـ JEEX. جودة فائقة وتصميم عصري.",
+      en: "A premium piece from the latest JEEX drop. Top tier quality and modern design."
+    }
+  },
